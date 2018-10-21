@@ -1,0 +1,19 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreya-211/SomeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreya-211/SomeProject/issues"
+  },
+  "homepage": "https://github.com/Shreya-211/SomeProject#readme"
+}
